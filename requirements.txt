@@ -1,5 +1,3 @@
 requests
-bs4
-mechanize
 rich
-pyotp
+futures
