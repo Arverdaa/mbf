@@ -7,9 +7,9 @@ Script Terbaru guys, moon maaf kalau mau recode Chat dlu yah
     $ git clone https://github.com/Arverdaa/mbf
     $ cd mbf
     $ pip3 install -r requirements.txt
-    $ python3 xmbf.py
+    $ python3 rum.py
 ### Update Script :
     $ rm -rf $HOME/MBF-FB
     $ git clone https://github.com/Arverdaa/mbf
     $ cd Arverdaa
-    $ python3 xmbf.py
+    $ python3 rum.py
